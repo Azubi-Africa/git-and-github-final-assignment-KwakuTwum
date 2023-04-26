@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |Mortgage-python-calculator|a python code for a simple calculator that calculates the monthly mortgage repayments and final amount based on principal amount, number of years and interest rate as inputs.| https://github.com/KwakuTwum/Mortgage-python-calculator/blob/main/README.md|
+| 2 |Caesar-s-cipher|  This is an algorithm to encrypt and decrypt its internal messages| https://https://github.com/KwakuTwum/Caesar-s-cipher/blob/main/README.md|
+| 3 |Product-Amount-Calculator|  This is a python program that calculates the total amount of a meal purchased with a fixed tip.| https://https://github.com/KwakuTwum/Product-Amount-Calculator/blob/main/README.md|
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
